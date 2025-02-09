@@ -3,6 +3,8 @@
 This project can be used for generating and presenting various statistics
 about [CodeCup](https://www.codecup.nl/intro.php) competitions.
 
+Some statistics related to CodeCup 2025 final competition can be viewed at https://commandini.github.io/codecup-insights
+
 ## How it works
 
 The statistics files have been prepared via Java (```core/Main.java```). It loads the respective CSV file(s) retrieved
