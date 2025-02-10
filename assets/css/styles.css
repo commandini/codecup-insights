@@ -4,6 +4,8 @@
   background-color: #B3E5FC;
   min-height: 100vh;
   padding: 20px;
+  width: 10%;
+  min-width: 80px;
 }
 
 .sidebar-option {
