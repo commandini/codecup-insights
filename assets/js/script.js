@@ -147,7 +147,7 @@ document.addEventListener("DOMContentLoaded", function () {
               title: "League",
               field: "subjectivePlayerType",
               headerSort: false,
-              hozAlign: "right",
+              hozAlign: "center",
               headerTooltip: "If flipping the result of any 2 games cannot change who has won more games, then the player with more wins is assumed to be stronger.",
               formatter: function (cell) {
                 var value = cell.getValue();
